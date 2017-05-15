@@ -10,8 +10,9 @@ html 部分
 </pre>
 style 部分
 
-/* 红包的样式*/
+
 <pre>
+/* 红包的样式*/
 .redpack {
     position: absolute;
     display: block;
