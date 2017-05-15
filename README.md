@@ -3,7 +3,10 @@
 
 html 部分
 <pre>
+<code>
 <div id="box"></div>
+</code>
+
 </pre>
 style 部分
 
