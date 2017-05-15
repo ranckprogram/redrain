@@ -4,7 +4,7 @@
 html 部分
 <pre>
 <code>
-<div id="box"></div>
+&lt;div id="box"&gt;&lt;/div&gt;
 </code>
 
 </pre>
