@@ -2,8 +2,9 @@
 红包雨的javascript插件
 
 html 部分
+<pre>
 <div id="box"></div>
-
+</pre>
 style 部分
 
 /* 红包的样式*/
@@ -22,6 +23,7 @@ style 部分
 </pre>
 
 javascript 部分
+<pre>
 var el = document.getElementById("box");
 var rain = new redPack({
     el: el, // 容器
@@ -37,3 +39,5 @@ document.onclick = function() {
     //停止
     // rain.stop();
 }
+
+</pre>
