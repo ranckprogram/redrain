@@ -7,6 +7,7 @@ html 部分
 style 部分
 
 /* 红包的样式*/
+<pre>
 .redpack {
     position: absolute;
     display: block;
@@ -18,6 +19,7 @@ style 部分
 .redpacked {
     background: #f80;
 }
+</pre>
 
 javascript 部分
 var el = document.getElementById("box");
